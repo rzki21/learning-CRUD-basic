@@ -13,7 +13,7 @@ Ini adalah project basic dan sederhana buat **belajar CRUD (Create, Read, Update
 - ✅ Lihat semua data
 - ✅ Edit data yang sudah ada
 - ✅ Hapus data
-- ✅ (Bonus) Sedikit CSS biar nggak terlalu polos 😄
+
 
 ---
 

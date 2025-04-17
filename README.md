@@ -1,5 +1,5 @@
 # learning-CRUD-basic 
-https://raw.githubusercontent.com/username/nama-repo/main/assets/preview.png
+
 
 # 📘 Belajar CRUD Basic Pakai PHP
   

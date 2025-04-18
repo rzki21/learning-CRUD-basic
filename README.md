@@ -1,13 +1,13 @@
 # learning-CRUD-basic 
 ![Image](https://github.com/user-attachments/assets/6b01ee21-5bf5-471b-9318-f4dec62581a1)
 
-# 📘 Belajar CRUD Basic Pakai PHP
+# Belajar CRUD Basic Pakai PHP
   
 Ini adalah project basic dan sederhana buat **belajar CRUD (Create, Read, Update, Delete)** menggunakan **PHP Native** (tanpa framework). Tujuannya biar kita ngerti dasar-dasar cara kerja aplikasi web yang bisa **tambah, lihat, edit, dan hapus data**.
 
 ---
 
-## 🛠️ Fitur yang Dibuat
+## Fitur yang Dibuat
 
 - ✅ Tambah data ke database
 - ✅ Lihat semua data
@@ -17,7 +17,7 @@ Ini adalah project basic dan sederhana buat **belajar CRUD (Create, Read, Update
 
 ---
 
-## 💽 Tools & Stack yang dipakai
+## Tools & Stack yang dipakai
 
 - VScode/Sublime Text
 - PHP (Native, no framework)

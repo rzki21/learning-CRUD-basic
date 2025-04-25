@@ -28,21 +28,17 @@ Ini adalah project basic dan sederhana buat **belajar CRUD (Create, Read, Update
 
 1. **Clone repo ini** ke folder htdocs (buat yang pakai XAMPP) atau ke server lokal kamu
 
-\`\`\`bash
-git clone https://github.com/username/$PROJECT_NAME.git
-\`\`\`
-
 2. **Import database**
    - Buka phpMyAdmin
-   - Buat database baru (misalnya: \`crud_db\`)
-   - Import file \`crud_db.sql\` yang ada di folder project
+   - Buat database baru (misalnya: \`crud_db\`) pastikan XAMPP running
+     
 
 3. **Cek koneksi database**
-   - Buka file \`koneksi.php\`
+   - Buka file \`config.php\`
    - Pastikan username, password, dan nama databasenya sesuai dengan setup kamu
 
 \`\`\`php
-\$host = "localhost";
+\$host = "localhost"; 
 \$user = "root";
 \$pass = "";
 \$db   = "crud_db";
@@ -51,5 +47,5 @@ git clone https://github.com/username/$PROJECT_NAME.git
 4. **Jalankan di browser**
 
 \`\`\`bash
-localhost/$PROJECT_NAME/
+localhost/$PROJECT_NAME_KAMU/
 \`\`\`
